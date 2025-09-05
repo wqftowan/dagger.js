@@ -121,35 +121,31 @@ Router is a built-in feature of dagger.js that allows you to easily define route
 ## ✨ Demos
 
 #### [CSS Mechanical Keyboard](https://codepen.io/dagger8224/pen/bGKPNwN)
-https://user-images.githubusercontent.com/66679262/209468342-c70c18e8-7500-406c-a527-6cfea233ead6.mp4
-
-
 https://github.com/user-attachments/assets/caac5818-d153-4630-a75a-d4fec72b5b94
 
-
 #### [3D Tic Tac Toe](https://codepen.io/dagger8224/pen/RwMedQx)
-https://user-images.githubusercontent.com/66679262/184640434-2cc17b9a-2fce-4f4c-adc4-ffe059bb56b2.mp4
+https://github.com/user-attachments/assets/6df0fc1d-9b8e-48e0-b2c4-7c7e403ae3bc
 
 #### [Tesla](https://codepen.io/dagger8224/pen/RwMGvPv?editors=1010)
-https://user-images.githubusercontent.com/66679262/179399791-241e3ca0-802a-4d15-bde1-28d2ca0f0f1a.mp4
+https://github.com/user-attachments/assets/2d976e5a-5cee-4ca9-8495-764aaf4c5f85
 
 #### [Cards](https://codepen.io/dagger8224/pen/zYWGGOY?editors=1100)
-https://user-images.githubusercontent.com/66679262/179399489-a822ebc1-11ec-4b00-b70a-81ac67ea313f.mp4
-
-#### [screensaver](https://codepen.io/dagger8224/pen/rNdOBmB?editors=1010)
-https://user-images.githubusercontent.com/66679262/179399677-2a8972ce-0fdf-4ba6-a503-db4fdc604d6f.mp4
-
-#### [Circular Progress Bar](https://codepen.io/dagger8224/pen/dympJXz?editors=1010)
-https://user-images.githubusercontent.com/66679262/179399893-e99969a8-4329-4fb0-b4d7-a573d95c91f6.mp4
-
-#### [Color Picker](https://codepen.io/dagger8224/pen/vYRmGJp?editors=1010)
-https://user-images.githubusercontent.com/66679262/180006750-83e9427b-1a71-4178-b808-d5b6ccf94577.mp4
-
-#### [Text Animation](https://codepen.io/dagger8224/pen/JjLXppg)
-https://user-images.githubusercontent.com/66679262/179400179-5d50cbba-98e6-470a-b58b-cdee007b71e3.mp4
+https://github.com/user-attachments/assets/a4e932af-df7a-4897-a276-88f058c80da4
 
 #### [3D Carousel](https://codepen.io/dagger8224/pen/JjLRbmz)
-https://user-images.githubusercontent.com/66679262/179400265-ebd5bdbb-0222-454e-96c6-8b43b4d91625.mp4
+https://github.com/user-attachments/assets/da23a67a-13af-45cb-97b9-9dbce2a39bf3
+
+#### [screensaver](https://codepen.io/dagger8224/pen/rNdOBmB?editors=1010)
+https://github.com/user-attachments/assets/8789d6cd-e15e-4f5f-83b3-fb4270c2363a
+
+#### [Circular Progress Bar](https://codepen.io/dagger8224/pen/dympJXz?editors=1010)
+https://github.com/user-attachments/assets/bcf78fdb-5a18-4736-8b93-88c44ac12c8b
+
+#### [Color Picker](https://codepen.io/dagger8224/pen/vYRmGJp?editors=1010)
+https://github.com/user-attachments/assets/3d1af18e-24ed-4081-88cf-339719a5f4c1
+
+#### [Text Animation](https://codepen.io/dagger8224/pen/JjLXppg)
+https://github.com/user-attachments/assets/f4e1e6b7-5744-4da5-b589-310720193d8a
 
 And more [demos](https://codepen.io/collection/yyLOGj) on how to work with [Shoelace components](https://shoelace.style/components/).
 
@@ -193,5 +189,6 @@ If you like dagger.js, you may:
 ## ✨ License
 
 [MIT](https://opensource.org/license/MIT)
+
 
 
