@@ -181,7 +181,7 @@ If you like dagger.js, you may:
 
 - Official Site: https://daggerjs.org  
 - Example Projects: https://codepen.io/dagger8224/pens  
-- GitHub: https://github.com/dagger8224/dagger.js  
+- GitHub: https://github.com/wqftowan/dagger.js  
 - NPM: https://www.npmjs.com/package/@peakman/dagger.js  
 
 ---
@@ -189,3 +189,4 @@ If you like dagger.js, you may:
 ## ✨ License
 
 [MIT](https://opensource.org/license/MIT)
+
